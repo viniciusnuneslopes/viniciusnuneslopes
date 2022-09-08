@@ -22,10 +22,10 @@
   <img align="right" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="48px" height="48px">
 </a>
 
-- 🚀 Estou em busca de uma oportunidade de trabalho para continuar evoluindo;
-- 💻 Estudante em programação há quase 1 ano;
-- 🔓 Tenho conhecimento em: HTML, CSS, JAVASCRIPT, REACT, MYSQL;
-- 🔐 Estou aprendendo: Python.</b>
+🚀 Estou em busca de uma oportunidade de trabalho para continuar evoluindo;
+💻 Estudante em programação há quase 1 ano;
+🔓 Tenho conhecimento em: HTML, CSS, JAVASCRIPT, REACT, MYSQL;
+🔐 Estou aprendendo: Python.</b>
 </div>
 
 ##
