@@ -1,6 +1,5 @@
 <h1 align="center"> Muito bem vinda e bem vindo! </h1>
 <hr/>
-<div style="display: inline_block">
 <a href="https://github.com/viniciusnuneslopes" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br/>
@@ -22,11 +21,10 @@
   <img align="right" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="48px" height="48px">
 </a>
 
-🚀 Estou em busca de uma oportunidade de trabalho para continuar evoluindo;
-💻 Estudante em programação há quase 1 ano;
-🔓 Tenho conhecimento em: HTML, CSS, JAVASCRIPT, REACT, MYSQL;
-🔐 Estou aprendendo: Python.</b>
-</div>
+- 🚀 Estou em busca de uma oportunidade de trabalho para continuar evoluindo;
+- 💻 Estudante em programação há quase 1 ano;
+- 🔓 Tenho conhecimento em: HTML, CSS, JAVASCRIPT, REACT, MYSQL;
+- 🔐 Estou aprendendo: Python.</b>
 
 ##
 
