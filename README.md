@@ -10,10 +10,10 @@
   <img align="right" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png" width="48px" height="48px">
 </a><br/>
 <p align="left" >
-Me chamo <b> Vinícius Nunes 👋.</b>
+<b> Me chamo Vinícius Nunes 👋.</b>
 </p>
 <p align="left" >
-<b>🎓 Sou bacharel em Direito e Pós-Graduado em Direito Digital e Proteção de Dados</b>. <a href="mailto:cont.vinicius@hotmail.com" alt="Outlook">
+<b>🎓 Sou bacharel em Direito e Pós-Graduado em Direito Digital e Proteção de Dados. <a href="mailto:cont.vinicius@hotmail.com" alt="Outlook">
   <img align="right" src="https://img.icons8.com/fluency-systems-filled/48/000000/ms-outlook.png" width="48px" height="48px">
 </a><br/></br> 
 </p>
@@ -24,7 +24,7 @@ Me chamo <b> Vinícius Nunes 👋.</b>
 - 🚀 Estou em busca de uma oportunidade de trabalho para continuar evoluindo;
 - 💻 Estudante em programação há quase 1 ano;
 - 🔓 Tenho conhecimento em: HTML, CSS, JAVASCRIPT, REACT, MYSQL;
-- 🔐 Estou aprendendo: Python;
+- 🔐 Estou aprendendo: Python.</b>
 
 ##
 
